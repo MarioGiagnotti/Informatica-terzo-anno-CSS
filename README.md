@@ -17,7 +17,7 @@ oppure fare il Download del file .zip
 
 2. Aprire VSC nella cartella di progetto
 
-3. Avvia il container:
-Cliccare sui relativi file index.html
+3. Avvia il TEST:
+Cliccare sui relativi file index.html -> Run -> Run without debugging
 
 
